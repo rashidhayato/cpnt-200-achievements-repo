@@ -1,0 +1,15 @@
+nav ul {
+
+  border-radius: 1rem;
+}
+
+header {
+  justify-content: flex-end;
+  display: flex;
+  padding: 1rem ;
+ 
+} 
+
+body{
+  background-color: rgb(17, 212, 212);
+}
